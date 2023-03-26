@@ -6,3 +6,8 @@ That is why it is still "experimental".
 [UA]
 Це мій експериментальний мережевий протокол, натхненний ідеями TCP-через-UDP, як і самим TCP.
 Раніше він планувався як частина інших експериментів з комп'ютерними іграми, однак так і залишився експериментальним (тому що в жодному з проєктів не випробовувався на практиці).
+
+
+LICENSING: for now unspecified, everything is forbidden unless it is permitted explicitly :)
+That's because I have no reasons to waste time licensing the code I published.
+Still, you can contact me if needed.
