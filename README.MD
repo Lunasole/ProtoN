@@ -12,4 +12,4 @@ LICENSING: for now unspecified, everything is forbidden unless it is permitted e
 That's because I have no reasons to waste time licensing the code I published.
 Still, you can contact me if needed.
 
-// not a GPL-terrorism or whatever, currently I really have no time (and not only) for such things, as well as publishing more sources
+// not a "copyright terrorism" or whatever, currently I really have no time (and not only) to think of licensing, as well as to publish more sources
