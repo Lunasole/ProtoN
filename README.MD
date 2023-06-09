@@ -11,3 +11,4 @@ That is why it is still "experimental".
 LICENSING: for now unspecified, everything is forbidden unless it is permitted explicitly :)
 That's because I have no reasons to waste time licensing the code I published.
 Still, you can contact me if needed.
+// not a GPL-terrorism or whatever, currently I really have no time (and not only) for such things
